@@ -128,7 +128,7 @@ body {
   padding-left: 20px;
   text-align: left;
 
-  background: #625871;
+  background: #1b5a51;
   opacity: 0.6;
   list-style: none;
   -webkit-font-smoothing: antialiased;
@@ -163,7 +163,7 @@ a {
 }
 
 a:hover {
-    color: #A62455;
+    color: #25a75e;
     text-decoration: none;
 }
 
@@ -247,7 +247,7 @@ section .text {
 }
 a.iprodev {
 	line-height: normal;
-	font-family: v;
+	font-family: sans-serif;
 	font-weight: 600;
 	text-decoration: none;
 	font-size: 13px;
