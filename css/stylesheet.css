@@ -177,6 +177,10 @@ section {
   color: #BBB;
 }
 
+#main {
+  font-size: 50px;
+}
+
 section h2 {
   color: #FFF;
   font-family: sans-serif;
