@@ -87,7 +87,10 @@ body {
 {
   transform-origin: 0% 100%;
 }
-
+#menu li {
+  display:block;
+  float:left;
+}
 /*
  * Transform all the slices of hamburger
  * into a crossmark.
