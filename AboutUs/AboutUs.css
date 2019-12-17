@@ -79,6 +79,24 @@ ul, li {
 
  }
 
+ div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+img {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+.caption {
+    display: block;
+}
+
+.names{
+  margin: 100px;
+}
 
 @keyframes shring-animation {
   0% {
