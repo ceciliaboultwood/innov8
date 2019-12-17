@@ -59,6 +59,7 @@ head {
 
 ul {
   white-space: nowrap;
+  margin-left: 100px
 }
 
 ul, li {
