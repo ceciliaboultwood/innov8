@@ -64,6 +64,7 @@ body {
 }
 .six.columns {
 	width: 48%;
+	display:inline
 }
 .seven.columns {
 	width: 56.6666666667%;
@@ -528,6 +529,12 @@ opacity: 0;
 #portfolio {
 	padding: 100px 0 100px 0;
 }
+
+#row2 {
+	margin-left: 50px
+}
+
+
 .image {
 	background-color: #5a5a5a;
 	width: 100%;
