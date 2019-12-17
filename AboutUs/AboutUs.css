@@ -59,6 +59,11 @@ head {
 
 ul {
   white-space: nowrap;
+  margin-left: 100px;
+  color: #355c7d;
+  font-family: 'Fira Code', monospace;
+  font-weight: 800;
+  font-size: 20px;
 }
 
 ul, li {
@@ -79,6 +84,24 @@ ul, li {
 
  }
 
+ div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+img {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+.caption {
+    display: block;
+}
+
+.names{
+  margin: 100px;
+}
 
 @keyframes shring-animation {
   0% {
